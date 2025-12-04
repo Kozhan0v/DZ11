@@ -1,0 +1,14 @@
+C:\Users\kozha\source\repos\DZ11\DZ11\bin\Debug\net8.0\Tumakov13.exe
+C:\Users\kozha\source\repos\DZ11\DZ11\bin\Debug\net8.0\Tumakov13.deps.json
+C:\Users\kozha\source\repos\DZ11\DZ11\bin\Debug\net8.0\Tumakov13.runtimeconfig.json
+C:\Users\kozha\source\repos\DZ11\DZ11\bin\Debug\net8.0\Tumakov13.dll
+C:\Users\kozha\source\repos\DZ11\DZ11\bin\Debug\net8.0\Tumakov13.pdb
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\Tumakov13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\Tumakov13.AssemblyInfoInputs.cache
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\Tumakov13.AssemblyInfo.cs
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\Tumakov13.csproj.CoreCompileInputs.cache
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\Tumakov13.dll
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\refint\Tumakov13.dll
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\Tumakov13.pdb
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\Tumakov13.genruntimeconfig.cache
+C:\Users\kozha\source\repos\DZ11\DZ11\obj\Debug\net8.0\ref\Tumakov13.dll
