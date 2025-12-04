@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\kozha\\source\\repos\\DZ11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|c:\\users\\kozha\\source\\repos\\dz11\\dz11\\classes\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|solutionrelative:dz11\\classes\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|c:\\users\\kozha\\source\\repos\\dz11\\dz11\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|solutionrelative:dz11\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|c:\\users\\kozha\\source\\repos\\dz11\\dz11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|solutionrelative:dz11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0D7E918-FA06-439E-BD58-12BEBC749E48}|Tumakov14\\Tumakov14.csproj|c:\\users\\kozha\\source\\repos\\dz11\\tumakov14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0D7E918-FA06-439E-BD58-12BEBC749E48}|Tumakov14\\Tumakov14.csproj|solutionrelative:tumakov14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{A0D7E918-FA06-439E-BD58-12BEBC749E48}|Tumakov14\\Tumakov14.csproj|solutionrelative:tumakov14\\attributes\\developerinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|c:\\users\\kozha\\source\\repos\\dz11\\dz11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|solutionrelative:dz11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0D7E918-FA06-439E-BD58-12BEBC749E48}|Tumakov14\\Tumakov14.csproj|c:\\users\\kozha\\source\\repos\\dz11\\tumakov14\\tumakov14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A0D7E918-FA06-439E-BD58-12BEBC749E48}|Tumakov14\\Tumakov14.csproj|solutionrelative:tumakov14\\tumakov14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -63,14 +71,6 @@
       "RelativeMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|solutionrelative:dz11\\classes\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|c:\\users\\kozha\\source\\repos\\dz11\\dz11\\classes\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|solutionrelative:dz11\\classes\\banktransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|c:\\users\\kozha\\source\\repos\\dz11\\dz11\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|solutionrelative:dz11\\classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|c:\\users\\kozha\\source\\repos\\dz11\\dz11\\tumakov13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4C750F30-350B-447C-BF25-8EA95CD48B4B}|DZ11\\Tumakov13.csproj|solutionrelative:dz11\\tumakov13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "HouseInfoAttribute.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Attributes\\HouseInfoAttribute.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Attributes\\HouseInfoAttribute.cs",
@@ -102,12 +102,11 @@
               "RelativeToolTip": "Tumakov14\\Attributes\\HouseInfoAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T18:21:17.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T18:21:17.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "House.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Classes\\House.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Classes\\House.cs",
@@ -115,12 +114,11 @@
               "RelativeToolTip": "Tumakov14\\Classes\\House.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T18:18:40.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T18:18:40.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "DeveloperInfoAttribute.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Attributes\\DeveloperInfoAttribute.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Attributes\\DeveloperInfoAttribute.cs",
@@ -128,12 +126,11 @@
               "RelativeToolTip": "Tumakov14\\Attributes\\DeveloperInfoAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:28:30.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T17:28:30.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Rational.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Classes\\Rational.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Classes\\Rational.cs",
@@ -141,16 +138,11 @@
               "RelativeToolTip": "Tumakov14\\Classes\\Rational.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAgwAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T17:25:06.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-12-04T17:25:06.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TypeOfBankAccount.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Enums\\TypeOfBankAccount.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Enums\\TypeOfBankAccount.cs",
@@ -158,12 +150,11 @@
               "RelativeToolTip": "Tumakov14\\Enums\\TypeOfBankAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:35:34.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T16:35:34.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "TransactionType.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Enums\\TransactionType.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Enums\\TransactionType.cs",
@@ -171,12 +162,11 @@
               "RelativeToolTip": "Tumakov14\\Enums\\TransactionType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:35:26.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T16:35:26.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BankTransaction.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Classes\\BankTransaction.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Classes\\BankTransaction.cs",
@@ -184,12 +174,11 @@
               "RelativeToolTip": "Tumakov14\\Classes\\BankTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:35:16.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T16:35:16.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Classes\\BankAccount.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Classes\\BankAccount.cs",
@@ -197,25 +186,23 @@
               "RelativeToolTip": "Tumakov14\\Classes\\BankAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:34:57.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T16:34:57.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Tumakov14",
+              "DocumentIndex": 12,
+              "Title": "Tumakov14.csproj",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Tumakov14.csproj",
               "RelativeDocumentMoniker": "Tumakov14\\Tumakov14.csproj",
               "ToolTip": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Tumakov14.csproj",
               "RelativeToolTip": "Tumakov14\\Tumakov14.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-04T16:34:25.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T16:34:25.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\Tumakov14\\Program.cs",
               "RelativeDocumentMoniker": "Tumakov14\\Program.cs",
@@ -228,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Street.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Classes\\Street.cs",
               "RelativeDocumentMoniker": "DZ11\\Classes\\Street.cs",
@@ -236,12 +223,11 @@
               "RelativeToolTip": "DZ11\\Classes\\Street.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T14:18:58.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:18:58.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "House.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Classes\\House.cs",
               "RelativeDocumentMoniker": "DZ11\\Classes\\House.cs",
@@ -249,12 +235,11 @@
               "RelativeToolTip": "DZ11\\Classes\\House.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAwwC4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T12:55:10.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T12:55:10.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "TransactionType.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Enums\\TransactionType.cs",
               "RelativeDocumentMoniker": "DZ11\\Enums\\TransactionType.cs",
@@ -262,12 +247,11 @@
               "RelativeToolTip": "DZ11\\Enums\\TransactionType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T19:26:40.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T19:26:40.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "TypeOfBankAccount.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Enums\\TypeOfBankAccount.cs",
               "RelativeDocumentMoniker": "DZ11\\Enums\\TypeOfBankAccount.cs",
@@ -275,8 +259,7 @@
               "RelativeToolTip": "DZ11\\Enums\\TypeOfBankAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T19:25:44.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T19:25:44.586Z"
             },
             {
               "$type": "Document",
@@ -288,12 +271,11 @@
               "RelativeToolTip": "DZ11\\Tumakov13.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-03T19:25:02.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T19:25:02.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "BankTransaction.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Classes\\BankTransaction.cs",
               "RelativeDocumentMoniker": "DZ11\\Classes\\BankTransaction.cs",
@@ -306,29 +288,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Classes\\BankAccount.cs",
               "RelativeDocumentMoniker": "DZ11\\Classes\\BankAccount.cs",
               "ToolTip": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Classes\\BankAccount.cs",
               "RelativeToolTip": "DZ11\\Classes\\BankAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAA+wEEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T19:23:49.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Program.cs",
               "RelativeDocumentMoniker": "DZ11\\Program.cs",
               "ToolTip": "C:\\Users\\kozha\\source\\repos\\DZ11\\DZ11\\Program.cs",
               "RelativeToolTip": "DZ11\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwD8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T19:18:08.578Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
